@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "개발자 에방뎅.."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "에방뎅"
 description              : "An amazing website."
 url                      : "https://2BBangD.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "에방뎅"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am Git NewB"
   location         : "Somewhere"
   email            :
   links:
